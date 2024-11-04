@@ -66,8 +66,8 @@ if (!isset($_SESSION['authenticated']) || !$_SESSION['authenticated']) {
         }
     </style>
     <div class="login-card">
-        <h1>Bypass Shell Ayane Chan Arc</h1>
-        <img src="https://i.pinimg.com/564x/79/85/d8/7985d80888988a81764ef03feeaafdfb.jpg" alt="Banner Image" class="img-fluid">
+        <h1>Bypass Shell Whiterose</h1>
+        <img src="https://github.com/whiterose7777/Gambar/blob/main/photo_6145293813787248658_y.jpg?raw=true" alt="Banner Image" class="img-fluid">
         <form method="post">
             <div class="form-group">
                 <label for="password">Password</label>
@@ -564,7 +564,7 @@ $dirArray = array_filter(explode(DIRECTORY_SEPARATOR, $displayDir), function($va
     <meta charset="UTF-8">
     <meta name="viewport" content="width=1024">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bypass Shell Ayane Chan Arc</title>
+    <title>Bypass Shell Whiterose</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
@@ -635,9 +635,9 @@ $dirArray = array_filter(explode(DIRECTORY_SEPARATOR, $displayDir), function($va
 <body>
     <div class="container mt-5">
         <?php if (isset($_SESSION['authenticated']) && $_SESSION['authenticated']): ?>
-        <h1 class="mb-4 text-center">Bypass Shell Ayane Chan Arc</h1>
+        <h1 class="mb-4 text-center">Bypass Shell Whiterose</h1>
         <div class="text-center mb-4">
-            <img src="https://i.pinimg.com/564x/b6/ac/db/b6acdba14a2632ae4bc67088ba0c0422.jpg" alt="Welcome Image" class="img-fluid">
+            <img src="https://github.com/whiterose7777/Gambar/blob/main/photo_6145293813787248658_y.jpg?raw=true" alt="Welcome Image" class="img-fluid">
         </div>
         <div class="text-center mb-4">
             <form method="post" class="d-inline">
@@ -725,7 +725,7 @@ $dirArray = array_filter(explode(DIRECTORY_SEPARATOR, $displayDir), function($va
         <?php endif; ?>
 
         <footer class="text-center mt-4">
-            <small>&copy; <?php echo date("Y"); ?> Bypass Shell Ayane Chan Arc</small>
+            <small>&copy; <?php echo date("Y"); ?> Bypass Shell Whiterose</small>
         </footer>
         <?php else: ?>
         <!-- Konten halaman login jika belum terautentikasi -->
