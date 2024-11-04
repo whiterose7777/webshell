@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-define('PASSWORD', 'RC1'); // Password untuk kontrol akses
+define('PASSWORD', 'ayane111'); // Password untuk kontrol akses
 
 // Proses login
 if (isset($_POST['password'])) {
